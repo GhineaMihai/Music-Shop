@@ -6,3 +6,4 @@
 ![Project](Images/Program.png)
 
 ## After that, The Physical and Digital buttons are used to show only the Physical/Digital records
+![Project](Images/Program1.png)

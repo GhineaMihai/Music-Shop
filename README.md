@@ -10,5 +10,7 @@
 ### Delete will delete the selected record from the left table
 
 ## After that, The Physical and Digital buttons are used to show only the Physical/Digital records
+![Project](Images/Physical.png)
 
-
+## In the end, the data in the program is saved in the Save.csv file
+![Project](Images/Save.png)
